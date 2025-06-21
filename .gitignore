@@ -18,6 +18,7 @@
 /out/
 
 # production
+_pagefind/
 /build
 
 # misc
